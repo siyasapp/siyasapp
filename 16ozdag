@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": "1",
+    "title": "Yenilenebilir Enerji GES Projesi",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yenilenebilir-enerji-ges-projesi_8956.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Arnavutköy Bilim Merkezi",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutkoy-bilim-merkezi_6369.jpeg"
+  }
+]
