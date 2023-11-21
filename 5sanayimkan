@@ -1,12 +1,126 @@
 [
   {
-    "id": "1",
-    "title": "Yenilenebilir Enerji GES Projesi",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yenilenebilir-enerji-ges-projesi_8956.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1501_teydeb.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi1.png"
   },
   {
-    "id": "2",
-    "title": "Arnavutköy Bilim Merkezi",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutkoy-bilim-merkezi_6369.jpeg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-engellilere_yonelik_proje_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi2.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-korumali_isyeri_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi3.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-kumelenme_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi4.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_kobi_enerji_verimliligi_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi5.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_is_plani_odulu_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi6.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1505_universite_sanayi_isbirligi_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi7.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_ileri_girisimci_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi8.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_geleneksel_girisimci_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi9.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_kosgeb_acil_destek_kredisi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi10.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_arge_urge_ve_inovasyon_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi11.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_yurt_disi_hizlandirici_destek-programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi12.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1515_oncul_arge_laboratuvarlari_destekleme_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi13.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1707_siparise_dayali_ar-ge_projeleri_icin_kobi_destekleme_cagrisi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi14.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1602_patent_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi15.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1503_proje_pazarlari_destekleme_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi16.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1509_uluslararasi_sanayi_arge_projeleri_destekleme_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi17.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-3501_kariyer_gelistirme_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi18.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1005_ulusal_yeni_fikirler_ve_urunler_arastirma_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi19.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_proje_bazli_tesvik_sistemi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi20.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-ufuk_2020_destek_programlari.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi21.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_stratejik_urun_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi22.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_sebze_ve_meyve_soguk_zincir_finansal_kiralama_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi23.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-ikili_ve_coklu_is_birligi_proje_destekleri.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi24.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_yurtdisi_pazar_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi25.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-era_net_cofund_araci_destekleme_programi1.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi26.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-1071_ikili_ve_coklu_isbirlik_arastirma_ve_ar-ge_projelerini_destekleme.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi27.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_isgem_tekmer_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi28.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_katilim_finans_yatirim_kredisi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi29.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_ozellikli_ihracat_kredisi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi30.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_uluslararasi_nakliyat_pazarlama_kredisi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi31.png"
   }
 ]
