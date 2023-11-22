@@ -1,1 +1,50 @@
-
+[
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-yerli_eser_yazim_tesvigi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k1.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-turizm_tanitma_ve_pazarlama_faaliyetlerinin_desteklenmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k2.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-2634-turizmi_tesvik_kanunu_ile_saglanan_tesvikler.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k3.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-teknik_yardim_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k4.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-sponsorluk_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k5.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-kultur_yatirimlari_ve_girisimlerini_tesvik.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k6.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-gorsel_sanatlar_dalindaki_destekler.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k7.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-fikri_mulkiyet_ve_kultur_endustrilerine_yonelik_destekler.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k8.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-etkinlik_ve_proje_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k9.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-bilimsel_topl_duz_etkinlik_kazi_yuzey_arastirmalari_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k10.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-bilimsel_proje_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k11.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-aile_cocuk_dostu_yapim_dizilerin_tesvik_edilmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/k12.png"
+  }
+]
