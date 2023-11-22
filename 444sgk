@@ -1,1 +1,58 @@
-
+[
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-isbasi_egitimlerini_tamamlayanlarin_istihdami_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk1.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-5_puanlik_indirim.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk2.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-is_sagligi_guvenligi_hizmetlerinin_desteklenmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk3.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-sosyal_hizmetlerden_yararlananlarin_istihdami_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk4.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-sosyal_hizmetlerden_yararlananlarin_istihdami_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk5.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-ar_ge_faaliyetlerinin_desteklenmesi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk6.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-engelli_sigortali_istihdaminda_sigorta_primi_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk7.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-genc_kadin_ve_mesleki_egitim_belgeliler_icin_destek.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk8.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-issizlik_odenegi_alanlarin_istihdami_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk9.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-3305_sayili_yatirimlarda_devlet_yardimlari_hakkinda_karar_ka.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk10.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-cok_tehlikeli_isyerlerinde_issizlik_sigortasi_isveren_h.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk11.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-genc_girisimci_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk12.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-4b_bagkur_5_puan_tesviki.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk13.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-yurt_disina_goturulen_gonderilen_sigortalilar_icin_prim_indirimi_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sgk14.png"
+  }
+]
