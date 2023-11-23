@@ -1,12 +1,34 @@
 [
   {
-    "id": "1",
-    "title": "Yenilenebilir Enerji GES Projesi",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yenilenebilir-enerji-ges-projesi_8956.jpg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-engellilere_yonelik_proje_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di2.png"
   },
   {
-    "id": "2",
-    "title": "Arnavutköy Bilim Merkezi",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutkoy-bilim-merkezi_6369.jpeg"
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-korumali_isyeri_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di1.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-derneklere_yardim_destegi_2023.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di3.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-saglik_arge_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di4.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_yatirima_destek_kredisi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di5.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_diger_kredi_urunleri.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di6.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-sukap_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di7.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-atiksu_aritma_tesisleri_enerji_tesvikleri.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/di8.png"
   }
 ]
