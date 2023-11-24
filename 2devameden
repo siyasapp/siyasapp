@@ -1,6 +1,5 @@
 [
   {
-    "id": "1",
     "title": "Yenilenebilir Enerji GES Projesi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim BALTACI",
     "title3": "Güneş Enerjisi Uygulamalarının Geliştirilmesi Projesi kapsamında, 2022 yılında Ulaşım Hizmetleri Binasında; 63.72 MWh elektrik üretilmiştir. Tesisin kapasitesi 100 KW gücüne çıkartılmıştır. 2 megawatt toplam güç için 5 farklı noktada projelendirilme işlemleri yapılmıştır.",
@@ -8,7 +7,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yenilenebilir-enerji-ges-projesi_8956.jpg"
   },
   {
-    "id": "2",
     "title": "Arnavutköy Bilim Merkezi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim BALTACI",
     "title3": "•Planetaryum
@@ -23,5 +21,26 @@
 Toplam Alan: 12.000 m2",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutkoy-bilim-merkezi_6369.jpeg"
+  },
+  {
+    "title": "Bağcılar Kadın Doğum ve Çocuk Hastanesi",
+    "title2": "Bağcılar Belediye Başkanı - Abdullah Özdemir",
+    "title3": "Zemin altında 14.186 m²’lik 567 araçlık otopark katı ve deprem izolatör katı; toprak üstünde ise 61.404 m²’lik hastane fonksiyonu olan 12 katlı yapı, toplam 75.590 m² alana sahiptir ve 196 adet sismik deprem izolatörü ile olası depreme karşı dayanıklı olarak tasarlanmıştır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd1.jpg"
+  },
+  {
+    "title": "Bağcılar Millet Bahçesi",
+    "title2": "Bağcılar Belediye Başkanı - Abdullah Özdemir",
+    "title3": "Bağcılar Millet Bahçesi",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd2.jpg"
+  },
+  {
+    "title": "Şehir Kütüphanesi ve Tiyatro Binası",
+    "title2": "Bağcılar Belediye Başkanı - Abdullah Özdemir",
+    "title3": "Şehir Kütüphanesi ve Tiyatro Binası Projesinin toplam İnşaat alanı 9.413 m2 olup proje: 2 bodrum, zemin ve 4 normal kattan oluşmaktadır. İçerinde 422 kişilik tiyatro salonu, 84 kişilik konferans salonu, gençlik kütüphanesi, genel kütüphane, sanat galerisi, multimedya bölümü, arşivler, toplantı salonları, atölyeler, etüt salonları, bireysel-toplu çalışma odaları, çocuk kütüphanesi, erişilebilir kütüphane ve idari-teknik hacimler bulunmaktadır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd3.jpg"
   }
 ]
