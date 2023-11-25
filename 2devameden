@@ -74,8 +74,36 @@ Toplam Alan: 12.000 m2",
   {
     "title": "Okul Yapımı",
     "title2": "Bayrampaşa Belediye Başkanı - Atila Aydıner",
-    "title3": "İlçemizde eğitime büyük önem veriyoruz. Mahallelerimizin okul ihtiyaçlarına projelerimizle destek veriyoruz. Altıntepsi Mahallesi Akpınar Caddesi'nde planlanan okul projemizin içerisinde modern sınıflar, yeni sistem atölyeler, geniş ve ferah kantin barındırıyor. Yakın zamanda öğrencilerimizin hizmetine sunmayı planlıyoruz. ",
+    "title3": "İlçemizde eğitime büyük önem veriyoruz. Mahallelerimizin okul ihtiyaçlarına projelerimizle destek veriyoruz. Altıntepsi Mahallesi Akpınar Caddesi'nde planlanan okul projemizin içerisinde modern sınıflar, yeni sistem atölyeler, geniş ve ferah kantin barındırıyor. Yakın zamanda öğrencilerimizin hizmetine sunmayı planlıyoruz.",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd8.jpg"
+  },
+  {
+    "title": "Bahçekent Millet Kıraathanesi",
+    "title2": "Başakşehir Belediye Başkanı - Yasin Kartoğlu",
+    "title3": "Başakşehir Belediyesi spordan kültüre, eğitimden teknolojiye kadar birçok alanda çocuklara ve gençlere yönelik yatırımlarına aralıksız devam ediyor. Hey yıl binlerce Başakşehirli tarafından ziyaret edilen ve Türkiye’nin en büyüğü unvanına sahip Başakşehir Millet Kıraathanesi’nin ardından Bahçeşehir 2. Kısım’da yeni bir millet kıraathanesi inşa ediliyor.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd9.jpg"
+  },
+  {
+    "title": "Boğazköy Kültür ve Yaşam Parkı",
+    "title2": "Başakşehir Belediye Başkanı - Yasin Kartoğlu",
+    "title3": "Başakşehir Belediye, Fenertepe, Başakşehir ve Kayaşehir’in ardından dördüncü kültür ve yaşam parkını Boğazköy’de yapıyor. Bahçeşehir 2. Kısım Mahallesi’nde inşaat çalışmaları tüm hızıyla devam eden Boğazköy Kültür ve Yaşam Parkı, tamamlandığında 30 bin metrekare alana sahip olacak.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd10.jpg"
+  },
+  {
+    "title": "Güvercintepe Viyadük Projesi",
+    "title2": "Başakşehir Belediye Başkanı - Yasin Kartoğlu",
+    "title3": "Başakşehir Belediyesi, ilçenin önemli bölgelerinden Güvercintepe’de mahalle sakinlerinin raylı sisteme daha kolay ulaşabilmesi için dev bir proje başlattı. Güvercintepe ile Atatürk Olimpiyat Stadı Metro İstasyonu arasına yapılacak olan viyadük, Güvercintepe’deki vatandaşların hızlı ve güvenli şekilde metroya ulaşımını sağlayacak. 260 metre uzunluk ve 11 metre genişlikteki viyadükte, yürüyüş ve bisiklet yolunun yanı sıra seyir terası olacak.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd11.jpg"
+  },
+  {
+    "title": "Başakşehir Kültür ve Yaşam Parkı",
+    "title2": "Başakşehir Belediye Başkanı - Yasin Kartoğlu",
+    "title3": "Başakşehir Belediyesi, belediyecilikte yeni bir model anlayışıyla inşa ettiği kültür ve yaşam parklarına bir yenisini daha ekliyor. Kayaşehir ve Fenertepe’nin ardından ilçenin üçüncü kültür ve yaşam parkı Başakşehir Fatih Terim Stadı’nın hemen yanında inşa ediliyor.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd12.jpg"
   }
 ]
