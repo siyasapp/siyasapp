@@ -1,14 +1,14 @@
 [
   {
     "title": "Yenilenebilir Enerji GES Projesi",
-    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim BALTACI",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "Güneş Enerjisi Uygulamalarının Geliştirilmesi Projesi kapsamında, 2022 yılında Ulaşım Hizmetleri Binasında; 63.72 MWh elektrik üretilmiştir. Tesisin kapasitesi 100 KW gücüne çıkartılmıştır. 2 megawatt toplam güç için 5 farklı noktada projelendirilme işlemleri yapılmıştır.",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yenilenebilir-enerji-ges-projesi_8956.jpg"
   },
   {
     "title": "Arnavutköy Bilim Merkezi",
-    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim BALTACI",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "•Planetaryum
 •Fuaye ve Sergi Alanları
 •Çok Amaçlı Salon
@@ -140,5 +140,46 @@ Toplam Alan: 12.000 m2",
     "title3": "Güngören Belediyesi halkın ihtiyaçlarına cevap verecek yatırımlara hız verildi. Göreve geldiği günden bugüne Güngören Belediye Başkanı Dr. Mimar Bünyamin Demir, çalışmaları yakından takip ediyor. Kurduğu güçlü ekibiyle çalışmaları yakından takip eden Başkan Bünyamin Demir, Güngörenlilere hizmet verecek çalışmaların hızlandırılması talimatını verdi. Bu projelerden biri olan Gençosman Mallesi Mehmet Akif Cami 4 bin 600 metrekare inşaat alınanı sahip. 700 metrekarelik peyzaj alanı ayrılan cami projesinde ayrıca 700 kişilik bay bayan namazgah alanları bulunacak. Mehmet Akif Cami projesinde ayrıca derslikler, itikaf alanları ile avlu içerisindeki çay evi de dikkat çekiyor.",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd17.jpg"
+  },
+  {
+    "title": "Arnavutköy Şehir kütüphanesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "680 m² toplam alanıyla inşa edilen bu kütüphane, 24.000 kitap kapasitesine sahiptir. Kütüphane içerisinde sesli ve sessiz okuma alanları, bireysel ve grup çalışma odaları, toplantı odaları ve bir mescit bulunmaktadır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd18.jpg"
+  },
+  {
+    "title": "Karaburun Sosyal Tesis Ve Kütüphane Projesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "Karaburun Mahallesi Meydan Düzenlemesi projesi kapsamında, Sosyal Tesis ve Kütüphane yapısının planları çizilmiştir. Bu yapının katlar ve fonksiyonları şu şekildedir:
+
+Bodrum Kat: 135 m² alanıyla, kütüphane olarak kullanılacaktır.
+Zemin Kat: 135 m² alanıyla, sosyal tesis olarak hizmet verecektir.
+1 Kat: 90 m² alanıyla, teras olarak düzenlenmiştir.
+Ayrıca, bu meydan düzenlemesi içinde 1108 m² büyüklüğünde bir peyzaj alanı ve 1085 m² büyüklüğünde bir meydan alanı da bulunmaktadır. Bu projenin amacı, mahalle sakinlerine ve ziyaretçilere hem kütüphane hizmeti sunmak hem de sosyal etkileşim için bir meydan ve peyzaj alanı sağlamaktır.
+
+Proje şu anda aktif bir şekilde devam etmektedir.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd19.jpg"
+  },
+  {
+    "title": "Hadımköy Meydan ve Kapalı Pazar Projesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "Arnavutköy Belediyesi tarafından yapımına başlanılan Hadımköy Meydan ve Kapalı Pazar Projesi kapsamında;
+
+* 7000 m² Otopark ve Pazar Alanı,
+* 48 Sabit, Toplam 202 Araçlık Kapalı Otopark,
+* 731 Tezgahlı Kapalı Pazar Alanı,
+* 1940 m² Kapalı Ticaret Alanları,
+* 17900 m² Meydan Alanı yapılacaktır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd20.jpg"
+  },
+  {
+    "title": "Küçük Sanayi Sitesi Projesi",
+    "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
+    "title3": "İlçemizdeki küçük sanayi işletmelerini bir araya toplayacak bu nitelikli ve modern tesiste 420 adet işyeri, sosyal tesis, otopark, rekreasyon ve peyzaj alanları ile ibadethane yer alacaktır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd21.jpg"
   }
 ]
