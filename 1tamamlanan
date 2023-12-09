@@ -1,6 +1,5 @@
 [
   {
-    "id": "1",
     "title": "Rami Kütüphanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Geçmişi 18. yüzyılın ortalarına dek uzanan Rami Kışlası, T.C. Kültür ve Turizm Bakanlığı’nın yoğun gayretleriyle yürütülen aslına uygun restorasyon, renovasyon ve yeni inşa çalışmalarının tamamlanmasıyla Rami Kütüphanesi olarak yeniden hayat buldu. Her yaştan okuyucunun ihtiyacına cevap veren koleksiyonu, ihtisas kütüphaneleri ve yaşam alanlarıyla Avrupa’nın en büyük kütüphane kompleksi olarak öne çıkan Rami Kütüphanesi, 2023 yılının Ocak ayında okuyucularına kapılarını açtı.",
@@ -8,7 +7,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/rami%20k%C3%BCt%C3%BCphanesi.jpg"
   },
   {
-    "id": "2",
     "title": "Müjde",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "1 yıl boyunca evlerimizdeki mutfak ve sıcak su tüketimi için gereken doğal gaz ücretsiz olacaktır. Ayrıca önümüzdeki 1 ay boyunca konutlarımızda ısınma dâhil tüm doğal gaz tüketiminden de ücret almayacağız. #MüjdelerOlsun, hayırlı olsun. 🇹🇷",
@@ -16,7 +14,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/eeeee.png"
   },
   {
-    "id": "3",
     "title": "ALT+TAB Kuluçka Merkezi",
     "title2": "Güngören Belediye Başkanı - Bünyamin Demir",
     "title3": "Al+Tab Yazılım Kuluçka Merkezi, yetenekli gençlerimizi yazılım sektörü profesyonelleri ile bir araya getirerek, onların yenilikçi örnek projelerde yer almalarına olanak sağlıyor. Bu sayede online başvuru ve algoritmik değerlendirme ile merkeze kabul edilen gençlerimiz, Agile Proje Yönetim metodolojisi ile gerçek projelerde yer alarak, kendilerini sektöre hazırlayabilecektir. Alt+Tab ülkemiz için stratejik olan yazılım sektörüne güçlü bireyler yetiştirmek amacıyla kurulmuştur.",
@@ -24,7 +21,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/alttab.jpg"
   },
   {
-    "id": "4",
     "title": "Atölye Üsküdar",
     "title2": "Üsküdar Belediye Başkanı - Hilmi Türkmen",
     "title3": "Atölye Üsküdar girişimcilere, girişimci olmak isteyenlere eğitim, ekipman, sarf malzeme, mentorluk, danışmanlık hizmetlerini ücretsiz olarak sunan bir girişimcilik ve inovasyon merkezidir. T.C. Sanayi ve Teknoloji Bakanlığı ve İstanbul Kalkınma Ajansı destekleriyle Üsküdar Belediyesi tarafından kurulmuştur.",
@@ -32,7 +28,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/thumbs_b_c_97563258923295b031f59a6e84c1f730.jpg"
   },
   {
-    "id": "5",
     "title": "Atatürk Kültür Merkezi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Sadece İstanbul’un değil, Türkiye’nin de sanat belleğinde iz bırakan İstanbul AKM, önceki mimarisine selam gönderen yeni yüzüyle 29 Ekim 2021 tarihinde, büyük bir heyecanla, kapılarını sanatseverlere açtı. Kültür ve Turizm Bakanlığına bağlı İstanbul’daki sanat birimlerinin, yerleşik kurum olarak yer alacağı İstanbul AKM, gelişmiş bir teknolojik donanımla tasarlanmış 2040 kişilik Opera Salonu, 781 kişilik Tiyatro Salonu, 410 metrekarelik AKM Galeri ve AKM Çok Amaçlı Salon'u ile yıl boyunca sanatseverleri ağırlayacak.",
@@ -40,7 +35,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/1-akm-1920x1080-renkli-2.jpg"
   },
   {
-    "id": "6",
     "title": "İstanbul Havalimanı",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "İstanbul Havalimanı (IATA: IST, ICAO: LTFM), Türkiye'nin İstanbul şehrinde hizmet veren uluslararası havalimanıdır. Şehrin Avrupa Yakası'nda, Karadeniz kıyısındaki Tayakadın ile Akpınar köyleri arasında yer alan havalimanı 29 Ekim 2018'de açılmıştır. İlk uçuş TK2124 koduyla 29 Ekim 2018 tarihinde İstanbul'dan Ankara'ya yapılmıştır. Tüm etapları tamamlandığında kapasitesi yıllık 200 milyon yolcuya çıkarılabilen 2 terminali ile birbirinden bağımsız altı pisti olacak şekilde hizmet verebilecektir.",
@@ -48,7 +42,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/thumbs_b_c_513047b71adfafc5eaf6723f8b4e7995.jpg"
   },
   {
-    "id": "7",
     "title": "1915 Çanakkale Köprüsü",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "1915 Çanakkale Köprüsü, Çanakkale'nin Lapseki ile Gelibolu ilçeleri arasında bulunan asma köprüdür. Çanakkale Boğazı'nın ilk ve Marmara Bölgesi'nin beşinci asma köprüsüdür. Malkara-Çanakkale Otoyolu'nun bir parçası olan köprü, 18 Mart 2022'de hizmete girdi. 2.023 metre orta açıklık uzunluğu ile Japonya'daki Akashi Kaikyō Köprüsü'nü geçerek dünyanın en uzun orta açıklığına sahip asma köprüsü olmuştur.",
@@ -56,7 +49,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/3385512_810x458.jpg"
   },
   {
-    "id": "8",
     "title": "TOGG",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Türkiye'de yerli otomobil üretebilmek için birlikte çalışma kararı alan şirket ve kuruluşlar, Kasım 2017'de Cumhurbaşkanı Recep Tayyip Erdoğan tarafından açıklandı. Bu amaçla Anadolu Grubu (%19), BMC (%19), Kök Grubu (%19), Turkcell (%19), Zorlu Holding (%19) ve TOBB (%5) tarafından 25 Haziran 2018'de Türkiye'nin Otomobili Girişim Grubu Sanayi ve Ticaret A.Ş. kuruldu. 4 Mart 2023'te aracın başlangıç fiyatı 953 bin Türk lirası olarak açıklandı.",
@@ -64,7 +56,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/togg-aa-1963758.jpg"
   },
   {
-    "id": "9",
     "title": "BAŞAKŞEHİR-KAYAŞEHİR Metrosu",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "6,20 km uzunluğundaki Başakşehir - Kayaşehir Metro Hattı, Kirazlı - Başakşehir - Olimpiyatköy Metro Hattı’nın devamı niteliğindedir. Metro hattı ile bölgede önemli bir sağlık merkezi olacak İstanbul İkitelli Entegre Sağlık Kampüsü Projesi’ne ulaşım sağlanacak. Vagonların içi ve dışı yönetim merkezinden kameralarla gözetlenecek. Vatandaşların güvenliği için de “peron kapı” sistemi kullanılacak. Yolcularla makinist arasında aktif iletişim sağlanacak.",
@@ -72,7 +63,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/metrooooooooooooo.jpeg"
   },
   {
-    "id": "10",
     "title": "Kağıthane Metrosu",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "(M11) Gayrettepe – İstanbul Havalimanı metrosu, Kağıthane - İstanbul Havalimanı arasındaki 7 durak ile 22 Ocak 2023 tarihinde hizmet vermeye başladı. Küresel aktarma merkezi olan İstanbul Havalimanı’na, Mecidiyeköy-Mahmutbey metro hattı entegrasyonu sayesinde, tüm raylı sistemle doğrudan, güvenli, hızlı ve ekonomik şekilde ulaşmak mümkün olacaktır.",
@@ -80,7 +70,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ka%C4%9F%C4%B1thane%20metrosu.jpg"
   },
   {
-    "id": "11",
     "title": "İstanbul Finans Merkezi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "İstanbul Finans Merkezi veya İstanbul Uluslararası Finans Merkezi veya Ümraniye Finans Merkezi İstanbul’un Ümraniye ilçesinde yer alan finans merkezi projesine verilen isimdir. Çevre ve Şehircilik Bakanlığı’nın yaptığı açıklamaya göre bu projenin hedefi New York, Londra ve Dubai’de yer alan mevcut finans merkezlerinden daha büyük bir finans merkezi inşa etmek ve İstanbul’u uluslararası bir finans merkezi haline getirmektir.",
@@ -88,7 +77,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/istfinans.jpg"
   },
   {
-    "id": "12",
     "title": "TCG Anadolu",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Türk Deniz Kuvvetlerinin sancak gemisi rolündeki geminin yapımı için 2014 yılında ilk çalışmalar yapılmış, 1 Haziran 2015 tarihinde Sedef Tersanesi'ne verilen sipariş sonrasında ise inşa faaliyetleri başlamıştır. Geminin tasarımında İspanyol donanmasına ait Juan Carlos I (L61) gemisinin tasarımı örnek alınmıştır. 4 Mart 2023 tarihinde gemi Savunma Sanayii Başkanlığı tarafından Türk Deniz Kuvvetleri'ne teslim edilmiştir. Donanmanın yapacağı son kabul testlerinden sonra gemi aktif olarak kullanılmaya başlanacaktır.",
@@ -96,7 +84,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tcganadolu.jpg"
   },
   {
-    "id": "13",
     "title": "Ankara-Niğde Otoyolu",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Ankara-Niğde Otoyolu'nun hizmete açılması ile özellikle ağır vasıta ağırlıklı yoğun trafiğe hizmet eden yolda trafik güvenliği, can ve mal emniyetinin sağlanması, seyahat süresinin kısaltılması ve yöredeki turizm ve sanayinin gelişmesine katkıda bulunması amaçlanmaktadır. Ankara-Niğde Otoyolu; Edirne'den başlayarak, İstanbul ve Ankara üzerinden Güneydoğu'ya kadar uzanan ve yapılması planlanan Şanlıurfa-Habur Sınır Kapısı kesimini de kapsayan TEM (Trans Avrupa Kuzey Güney Otoyolu) Otoyolu'nda kesintisiz ulaşım sağlamasında da önem arz etmektedir.",
@@ -104,7 +91,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/HaymanaKavsagi.jpg"
   },
   {
-    "id": "14",
     "title": "Bor Karbür Tesisi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Türkiye'nin ilk ve stratejik tesislerinden biri olacak, savunma sanayisinin gücüne güç katacak Türkiye'nin ilk bor karbür tesisi, Balıkesir'in Bandırma ilçesinde Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla açıldı. Tam kapasite çalıştığında 279 kişinin istihdam edileceği tesiste, yılda 1000 ton bor karbür üretilecek. Elmas ve kübik bordan sonra en sert üçüncü madde olan bor karbür, başta savunma sanayisi olmak üzere birçok alanda kullanılıyor.",
@@ -112,7 +98,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bor-karbur-tesisi-a-2014348.jpg"
   },
   {
-    "id": "15",
     "title": "Cudi-Gabar Petrol Keşfi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -120,7 +105,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/cudi.jpg"
   },
   {
-    "id": "16",
     "title": "Honaz Tüneli",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Ege ve Akdeniz’i birbirine bağlayan Honaz Tüneli ve Çevre Yolu ile seyahat süresi 45 dakikadan 10 dakikaya inecek. Ege’nin en büyüklerinden biri olan 2 bin 640 metrelik tünel ve 32 kilometrelik çevre yolu zamandan ve yakıttan büyük tasarruf sağlayacak.",
@@ -128,15 +112,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/honaz-tuneli-1985882.jpg"
   },
   {
-    "id": "17",
-    "title": "Bayraktar Kızılelma",
-    "title2": "Milli Teknoloji Hamlesi",
-    "title3": "Baykar Bayraktar Kızılelma, Türkiye merkezli insansız hava aracı üreticisi Baykar Teknoloji tarafından tasarım ve geliştirme çalışmaları devam eden, turbofan motorlu, gizlilik ve Havadan havaya füze atabilme kabiliyetine sahip insansız savaş uçağıdır.",
-    "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/KIZILELMA-MIUS-prototip-1.jpg"
-  },
-  {
-    "id": "18",
     "title": "AKM-GAR-KIZILAY Metrosu",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Proje kapsamında, Gar, Adliye ve Kızılay olmak üzere 3 istasyondan oluşan hat sayesinde başkentliler Keçiören'den Kızılay'a aktarmasız gidebilecek. Metro hattında yeni inşa edilen ve 600 bin yolcu kapasiteli Gar İstasyonu aracılığıyla yolcular, Ankara YHT Garı'na, Başkentray’a ve Ankaray'a aktarma yapabilecek. İkinci istasyon olan Adliye İstasyonu aracılığıyla da Başkentray'a aktarma sağlanabilecek. Son istasyon Kızılay'dan Batıkent, Çayyolu ve Ankaray metro hatlarına geçiş mümkün olacak.",
@@ -144,7 +119,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/akm-gar-kizilay-metro-hatti-acildi-1681459311%20(1).jpg"
   },
   {
-    "id": "19",
     "title": "Yusufeli Barajı",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Yusufeli Barajı ve Hidroelektrik Santrali Projesi Orman ve Su İşleri Bakanlığı DSİ Genel Müdürlüğünce yaptırılan barajdır ve temeli 26 Şubat 2013'te atılmıştır. Yusufeli Barajı; Karadeniz Bölgesi’nde, Artvin’in 70 kilometre güney batısında, Çoruh Nehri üzerinde inşa edilmiş olup, 540 MW kurulu güç ile yılda ortalama 1,8 milyar kWh enerji üretecektir. Tesis şu anda; çift eğrilikli beton kemer kategorisinde dünyanın en yüksek üçüncü, genel kategoride dünyanın en yüksek yedinci barajı konumundadır. 2022 yılının ilk günlerinde barajda su tutulmaya başlandı.",
@@ -152,7 +126,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/baraj2.webp"
   },
   {
-    "id": "20",
     "title": "Fatih Merkez Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -160,7 +133,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/WhatsApp%20Image%202021-05-28%20at%2017_25_50%20(1).jpeg"
   },
   {
-    "id": "21",
     "title": "Vatan Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -168,7 +140,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/WhatsApp%20Image%202023-03-14%20at%2008_40_21(1).jpeg"
   },
   {
-    "id": "22",
     "title": "Cerrahpaşa Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -176,7 +147,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/cerrah.jpeg"
   },
   {
-    "id": "23",
     "title": "Topkapı Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -184,7 +154,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Untitled-1_294x200.jpg"
   },
   {
-    "id": "24",
     "title": "Zigana Tüneli",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Dünyanın 3'üncü, Avrupa ve ülkemizin 1'inci en uzun çift tüplü kara yolu tüneli Zigana Tüneli hayırlı olsun.",
@@ -192,7 +161,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/zigana.jpg"
   },
   {
-    "id": "25",
     "title": "Kalenderhane Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -200,7 +168,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/kalenderhane.jpg"
   },
   {
-    "id": "26",
     "title": "Karagümrük Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -208,7 +175,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/301-karagumruk-kutuphanesi-fatihbel_255x285.jpeg"
   },
   {
-    "id": "27",
     "title": "Kadırga Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -216,7 +182,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/e2e664c1940241e4ae016bb0e6cc75a4.jpg"
   },
   {
-    "id": "28",
     "title": "Vani Dergahı Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -224,7 +189,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/vani(2).jpg"
   },
   {
-    "id": "29",
     "title": "Kariye Kütüphanesi",
     "title2": "Fatih Belediye Başkanı - M. Ergün Turan",
     "title3": "",
@@ -232,7 +196,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/refik%20halit.jpg"
   },
   {
-    "id": "30",
     "title": "Bilişim Vadisi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Bilişim Vadisi, teknoloji tabanlı fikirlerin ürüne dönüştüğü ve ticarileştiği bir Mega Teknoloji Koridorudur. Amacımız, 2023 Milli Teknoloji Hamlesi Vizyon Hedefleri çerçevesinde Kamu - Üniversite – Sanayi – Sivil Toplum işbirliğini sağlayarak Türkiye’nin gücüne güç katacak katma değeri yüksek yeni teknolojilerin üretilmesini ve ticarileşmesini sağlamaktır.",
@@ -240,7 +203,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/biliimvadis.jpg"
   },
   {
-    "id": "31",
     "title": "Teknopark İstanbul",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Yerli ve yabancı girişimcilerin Türkiye’nin teknoloji geliştirme kapasitesine katkıda bulunabilmesi amacıyla kurulmuş bir teknoloji geliştirme bölgesi olan Teknopark İstanbul, Türk savunma sanayinin ileri teknoloji merkezi konumunda yer almaktadır. Teknopark İstanbul; İstanbul ve çevresindeki üniversitelerin araştırma kabiliyetlerini, nitelikli işgücünü ve bölge sanayisinin tecrübesini özellikle savunma sanayine entegre etmektedir.",
@@ -248,7 +210,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/teknoparkist.jpg"
   },
   {
-    "id": "32",
     "title": "BTM İstanbul",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "BTM; İstanbul Ticaret Odası tarafından yenilikçi iş fikirlerinin ticarileşerek ülkemize katma değer sağlaması amacıyla bir vakıf olarak kurulmuştur. BTM’de fikirlerin iş modeli haline gelmesi sağlanırken; eğitim ve seminerler, mentor desteği, yatırımcı eşleştirmeleri, girişimcilerin yatırımcı karşısında sunum yaptığı demo günü etkinlikleri, İTO Komite eşleştirmeleri, 7/24 ofis imkanı, birebir danışmanlık gibi hizmetler girişimcilere tamamen ücretsiz sunulmaktadır.",
@@ -256,7 +217,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bilgiyi-ticarilestirme-merkezi6.jpg"
   },
   {
-    "id": "33",
     "title": "Bilişim Akademisi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "Arnavutköy Belediyesi, Milli Teknoloji Hamlesi ve Dijital Türkiye Hedefleri doğrultusunda; bilişim alanında yetenekli genç ve yetişkinlere yönelik Arnavutköy Bilişim Akademisi’ni hayata geçirdi.",
@@ -264,7 +224,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/arnavutk%C3%B6y1.jpg"
   },
   {
-    "id": "34",
     "title": "Erdem Bayazıt Kütüphanesi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "",
@@ -272,15 +231,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/erdem-bayazit-kutuphanesi_3932.jpg"
   },
   {
-    "id": "35",
-    "title": "Akkuyu Nükleer Güç Santrali",
-    "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
-    "title3": "Türkiye'nin enerji arz güvenliğine eşsiz katkılar sağlayacak stratejik bir yatırım olan Akkuyu Nükleer Güç Santralimizin üretim öncesi son hazırlık safhasını tamamladık, nükleer yakıt çubuklarının santral sahasına teslimini gerçekleştirdik. Ülkemize hayırlı ve uğurlu olsun. 🇹🇷",
-    "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/akkuyu.jpg"
-  },
-  {
-    "id": "36",
     "title": "Hadımköy Bilgi Evi ve Kültür Evi Projesi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "Arnavutköy  İlçesi  Hadımköy   697  Ada 1 Parsel 1/1000 Ölçekli Hadımköy Merkez Bölgesi I.Etap Uygulama İmar Planı’nda  BHA (Belediye Hizmet Alanı)  fonksiyonunda kalmaktadır. Söz konusu  parselde  bölge ihtiyaçları dikkate  alınarak  Bilgi  Evi  projesi  hazırlatılmıştır.  Toplam 960 m²  kapalı alana  sahip  Bilgi Evi’nde  aşağıdaki fonksiyonlar  yer almaktadır.",
@@ -288,7 +238,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/1.jpg"
   },
   {
-    "id": "37",
     "title": "Adana 15 Temmuz Şehitler Köprüsü",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Bugün, sıradan bir ulaşım eserinin çok ötesinde özelliklere sahip olan Adana 15 Temmuz Şehitler Köprümüzün resmî açılışını gerçekleştirdik. Adana’mıza ve ülkemize hayırlı olsun. 🇹🇷",
@@ -296,7 +245,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/adanakopru.jpg"
   },
   {
-    "id": "38",
     "title": "Taşoluk Millet Kıraathanesi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "Taşoluk Millet Kıraathanesi 1.500 kitaplı kütüphanesi ve millet kıraathanesiyle Yeşil Camii Meydanı’nda hizmet vermektedir.",
@@ -304,7 +252,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/2.jpg"
   },
   {
-    "id": "39",
     "title": "Sanat Akademisi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "Akademimiz 2015 Aralık ayında  “ Sanat Akademisi” ismiyle yolculuğuna başlamış olup ilçe genelinde Arnavutköy Belediyesi Kültür işleri bünyesinde sanatsal, kültürel ve eğitsel faaliyetler yürüten bir birimdir.",
@@ -312,7 +259,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/3.jpg"
   },
   {
-    "id": "40",
     "title": "Ayazma Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -320,7 +266,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ayazmamillet.jpg"
   },
   {
-    "id": "41",
     "title": "Teknoloji Geliştirme Merkezi",
     "title2": "Tuzla Belediye Başkanı - Şadi Yazıcı",
     "title3": "Teknoloji Geliştirme Merkezi (TEKMER); girişimcilere ve işletmelere ön inkübasyon, inkübasyon, inkübasyon sonrası süreçlerde; iş geliştirme, mali kaynaklara erişim, yönetim, danışmanlık, mentörlük, ofis ve ağlara katılım gibi hizmetlerin sağlandığı yapılardır.",
@@ -328,7 +273,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tuzla1.jpg"
   },
   {
-    "id": "42",
     "title": "Ankara-Sivas YHT",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -336,7 +280,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankarasivasyht.jpg"
   },
   {
-    "id": "43",
     "title": "Konya Güneş Enerjisi Santrali",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Konya Karapınar’da 1 milyar dolarlık yatırımla kurduğumuz güneş enerjisi santralinin açılışını da bugün yaptık. Dünyanın sayılı, Avrupa’nın ve ülkemizin bu alanda en büyük enerji santrali olan tesisimiz 2 milyon kişinin yıllık elektrik ihtiyacını karşılayacak.",
@@ -344,7 +287,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/elentrik.jpg"
   },
   {
-    "id": "44",
     "title": "Engelsiz Yaşam Merkezi",
     "title2": "Tuzla Belediye Başkanı - Şadi Yazıcı",
     "title3": "Tuzla Belediyesi Gönül Elleri Çarşısı, 5 bin kadın kent gönüllüsü ile Tuzla’da kapı kapı dolaşarak dezavantajlı vatandaşları belirliyor, yıl boyunca da yanların olarak ihtiyaçlarını karşılıyor. Bu kapsamda yıl boyunca takipleri yapılan özel vatandaşların eğitim alabilecekleri, spor yapabilecekleri ve sosyal hayata karışabilecekleri Tuzla Belediyesi Engelsiz Yaşam Merkezi açıldı.",
@@ -352,7 +294,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tuzla2.jpg"
   },
   {
-    "id": "45",
     "title": "Güngören Spor Kompleksi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -360,7 +301,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/g%C3%BCn2.jpg"
   },
   {
-    "id": "46",
     "title": "Bakırköy Baruthane Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -368,7 +308,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/labarut.webp"
   },
   {
-    "id": "180",
     "title": "Aratol Taziye Evi",
     "title2": "Aksaray Belediye Başkanı - Evren Dinçer",
     "title3": "",
@@ -376,15 +315,13 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/aratol-taziye.jpeg"
   },
   {
-    "id": "48",
     "title": "Ankara Etlik Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara%20etlik.png"
   },
-    {
-    "id": "49",
+  {
     "title": "Ankara Bilkent Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -392,7 +329,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara-sehir-hastanesi-03B%C4%B0LKENT.png"
   },
   {
-    "id": "50",
     "title": "Gazi Parkı",
     "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
     "title3": "",
@@ -400,7 +336,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara1.jpeg"
   },
   {
-    "id": "51",
     "title": "Kuzey Yıldızı (Techbridge) Teknoloji Merkezi",
     "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
     "title3": "",
@@ -408,7 +343,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara2.jpg"
   },
   {
-    "id": "52",
     "title": "Dikmen Vadisi Teknoloji Merkezi",
     "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
     "title3": "",
@@ -416,7 +350,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara3.png"
   },
   {
-    "id": "53",
     "title": "Çubuk 1 Barajı",
     "title2": "Ankara Büyükşehir Belediye Başkanı - Mansur Yavaş",
     "title3": "",
@@ -424,7 +357,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ankara4.jpeg"
   },
   {
-    "id": "54",
     "title": "Adana Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -432,7 +364,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/adana-sehir-hastanesi-01jpg.png"
   },
   {
-    "id": "55",
     "title": "Mersin Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -440,7 +371,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/mersin-sehir-hastanesi-02png.png"
   },
   {
-    "id": "56",
     "title": "Yozgat Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -448,7 +378,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yozgat-sehir-hastanesi-02jpg.png"
   },
   {
-    "id": "57",
     "title": "Isparta Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -456,7 +385,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C4%B1sparta.jpeg"
   },
   {
-    "id": "58",
     "title": "Kayseri Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -464,7 +392,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Keydata-Kayseri-PPP-2-scaled.jpg"
   },
   {
-    "id": "59",
     "title": "Elazığ Fethi Sekin Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -472,7 +399,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/elazig-fethi-sekin-sehir-hastanesi-12jpg.png"
   },
   {
-    "id": "60",
     "title": "Eskişehir Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -480,7 +406,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/eskisehir-sehir-hastanesi-aa-1688234.jpg"
   },
   {
-    "id": "61",
     "title": "Manisa Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -488,7 +413,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/manisa%C5%9Fehirhastanes.jpg"
   },
   {
-    "id": "62",
     "title": "Bursa Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -496,7 +420,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bursala%C5%9Fehir.jpg"
   },
   {
-    "id": "63",
     "title": "Konya Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -504,7 +427,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/konya%20%C5%9Fehir%20hastanesi.jpg"
   },
   {
-    "id": "64",
     "title": "Tekirdağ Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -512,7 +434,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tekirdah%C5%9Fehir.jpg"
   },
   {
-    "id": "65",
     "title": "Başakşehir Çam ve Sakura Şehir Hastanesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -520,7 +441,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/cam-sakura-foto.jpg"
   },
   {
-    "id": "66",
     "title": "Nadir Toprak Elementi Tesisi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -528,7 +448,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/nadirkard.jpg"
   },
   {
-    "id": "67",
     "title": "M7 Yıldız-Mahmutbey Metro Hattı",
     "title2": "Eski İBB Bşk. - Kadir Topbaş devamında Eski İBB Bşk. - Mevlüt Uysal devamında İBB Bşk. - Ekrem İmamoğlu",
     "title3": "M7 Yıldız-Mahmutbey metro hattı Avrupa yakasının ilk tam otomatik sürücüsüz metrosu olarak hizmete açılmıştır. Tamamlandığında Kabataş-Esenyurt arasında işletilecektir.
@@ -537,15 +456,13 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karr.jpg"
   },
   {
-    "id": "68",
     "title": "İMECE Uydusu",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) tarafından desteklenen İMECE Uydu Projesi, Ocak 2017'de başladı. Haziran 2020'de uzay aracının termal yapısal verimlilik modülünün montaj entegrasyon faaliyetleri tamamlandı ve testleri tamamlandı. uzay gemisinde titreşim başladı. Bu testleri uçuş modülünün montaj faaliyetleri izledi. Uydu ,Transporter-7 binicilik görevinin bir parçası olarak SpaceX'in Falcon 9 Blok 5 roketiyle 15 Nisan 2023'te fırlatıldı.",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/0x0-imece-uydusu-nedir-turkiye-yuzyilinin-habercisi-imece-uydusu-firlatildi-mi-ozellikleri-neler-ne-ise-yarar-1681545106188%20(1).jpeg"
   },
-    {
-    "id": "69",
+  {
     "title": "M5 Üsküdar-Çekmeköy Metro Hattı",
     "title2": "Eski İBB Bşk. - Kadir Topbaş devamında Eski İBB Bşk. - Mevlüt Uysal",
     "title3": "M5 Üsküdar-Çekmeköy Hattı, Anadolu Yakası’nın ikinci metro hattı olup, Türkiye’nin ilk sürücüsüz metro hattıdır. Hat, Üsküdar Meydanı’ndan başlayarak, Ümraniye ilçe merkezinden geçmekte ve Çekmeköy Meydanında son bulmaktadır.
@@ -556,7 +473,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C3%BCnalaga.jpg"
   },
   {
-    "id": "70",
     "title": "M6 Levent-Boğaziçi Ü./Hisarüstü Metro Hattı",
     "title2": "Eski İBB Bşk. - Kadir Topbaş",
     "title3": "M6 Metro Hattı, M2 Yenikapı - Hacıosman Metro Hattı ile gelen yolcuların Boğaziçi Üniversitesi ve Hisarüstü bölgesine erişimini sağlamaktadır. Yeni Avusturya Tünel Açma (NATM) yöntemiyle ve tek tüp tünel olarak inşa edilen M6 Metro Hattı bu yapısı ile diğer metro hatlarından farklıdır.
@@ -566,7 +482,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/leventaga.jpeg"
   },
   {
-    "id": "71",
     "title": "Afyonkarahisar-Şuhut Yolu",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Cumhurbaşkanımız, yoğun trafiğin daha konforlu, hızlı, güvenli şekilde işleyeceği Afyonkarahisar-Şuhut Yolu ile birlikte seyahat süresinin 27 dakikadan 12 dakikaya indiğini belirterek, projeyle birlikte vakitten 58,5 milyon lira, akaryakıttan 18 milyon lira, tasarruf sağlanarak egzoz salınımının 2 bin 200 ton azalacağını ifade etti.",
@@ -574,7 +489,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/afyonkarahisar-suhut-yolu-yarin-erdogan-in-15599100_amp.jpg"
   },
   {
-    "id": "72",
     "title": "Güneş Enerjisi Projesi",
     "title2": "Bingöl Belediye Başkanı - Erdal Arıkan",
     "title3": "Çevre dostu enerji projelerimiz kapsamında, belediyemizin elektrik ihtiyacını karşılamak için Çevre yolunda 20 dönümlük arazi üzerinde Güneş Enerji Sistemi (GES) projemizi hayata geçirdik. Proje kapsamında; 2.952 panel kuruldu. Günlük 1 megawat/saat elektrik üretiliyor. Buradan aylık elde edilecek gelir ortalama 250 Bin TL olacak.",
@@ -582,7 +496,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bingol-belediyesi-gunes-enerjisi-santrali-ve-copte-1612352723193.jpg"
   },
   {
-    "id": "73",
     "title": "Paşa Camii",
     "title2": "Afyonkarahisar Belediye Başkanı - Mehmet Zeybek",
     "title3": "Selçuklu mimarisine uygun şekilde tamamlanan cami, sedir ağaçlarından oluşan 62 ahşap direği, revakları, kesme taş kaplaması ve kurşun çatısı ile dikkati çekiyor. İlimizde 1933 yılında yıkılan 478 yıllık geçmişe sahip Umurbey Paşa Cami’yi hayırseverlerimizin de desteği ile yeniden ibadete açtık. Paşa Camii ve Külliyesini aynı anda 1500 kişinin ibadet yapabileceği bir ibadethaneye dönüştürdük.",
@@ -590,7 +503,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/pa%C5%9Fa%20camii.jpg"
   },
   {
-    "id": "74",
     "title": "Bisiklet Yolu",
     "title2": "Afyonkarahisar Belediye Başkanı - Mehmet Zeybek",
     "title3": "Çevre ve Şehircilik Bakanlığı tarafından da desteklenen bisiklet yolu projesi 2 Metre genişliğinde ilk etapta 24 km uzunluğunda tamamlanmıştır. Sürdürülebilir, doğa dostu ulaşım araçlarını destekleyen ve imkan tanıyan bir şehir olma yolunda çalışmalarımız hızla sürüyor.",
@@ -598,7 +510,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bisiklet%20yolu.jpg"
   },
   {
-    "id": "75",
     "title": "TUSAŞ T-129 Atak",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "T-129 ATAK, ATAK programı çerçevesinde Türk Silahlı Kuvvetleri için Türkiye'nin coğrafi ve iklim koşullarına göre tasarlanan, TUSAŞ ve AgustaWestland ortak üretimi taarruz ve taktik keşif helikopteri.",
@@ -606,7 +517,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/su1.jpg"
   },
   {
-    "id": "76",
     "title": "TUSAŞ T-625 Gökbey",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "T-625 Gökbey, Türk Silahlı Kuvvetleri ve Sivil havacılık alanlarında kullanılması amacıyla Türkiye'nin coğrafi ve iklim koşullarına göre Türk mühendisleri tarafından tasarlanan, geliştirilmekte olan ve TUSAŞ tesislerinde üretilen genel amaçlı helikopterdir. Özgün helikopterin ileride UH-1 ve ambulans helikopterlerin yerini alması planlanmaktadır.",
@@ -614,7 +524,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/su2.jpg"
   },
   {
-    "id": "77",
     "title": "Sınıf Atık Getirme Merkezi",
     "title2": "Afyonkarahisar Belediye Başkanı - Mehmet Zeybek",
     "title3": "Sıfır Atık Projesi kapsamında şehrimizin bazı merkezi noktalarına Mobil Atık Getirme Merkezleri yerleştirdik. 1. Sınıf Atık Getirme Merkezi’ne bağlı çalışacak olan Mobil Atık Getirme Merkezlerinde yedi tip atık toplanmaktadır.",
@@ -622,7 +531,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/s%C4%B1n%C4%B1f%20at%C4%B1k%20getirme%20merkezi%20afyon.jpg"
   },
   {
-    "id": "78",
     "title": "Cep Parklar",
     "title2": "Afyonkarahisar Belediye Başkanı - Mehmet Zeybek",
     "title3": "Şehrin imar planlarında Yeşil alan olarak bırakılan ufak parseller üzerinde ; Ahşap tasarımlı park mobilyaları ve alana uygun bitki dikimi ayrıca Sanat yapıları içeren konsepti ile yol üzerinde vatandaşların rahat nefes alıp soluklanıp dinlenebileceği özgün temaların işlendiği ışık objelerin olduğu şık bahçe alanları Şehrin birçok yerine yapılacaktır.",
@@ -630,7 +538,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/afyon%20cep%20parklar.jpg"
   },
   {
-    "id": "79",
     "title": "Halk Ekmek Fırını",
     "title2": "Ağrı Belediye Başkanı - Savcı Sayan",
     "title3": "",
@@ -638,7 +545,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/belediye-halk-ekmek-firini.jpg"
   },
   {
-    "id": "80",
     "title": "Kapalı Pazar Alanı ve Sosyal Tesis",
     "title2": "Aksaray Belediye Başkanı - Evren Dinçer",
     "title3": "",
@@ -646,7 +552,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/kapal%C4%B1%20pazar%20alan%C4%B1%20aksaray.jpg"
   },
   {
-    "id": "81",
     "title": "Hamidiye-Alaca Sosyal Tesisleri",
     "title2": "Aksaray Belediye Başkanı - Evren Dinçer",
     "title3": "",
@@ -654,7 +559,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hamidiye%20alaca.jpg"
   },
   {
-    "id": "82",
     "title": "Yöresel Ürünler ve Turşu Fabrikası",
     "title2": "Bayburt Belediye Başkanı - Hükmü Pekmezci",
     "title3": "",
@@ -662,7 +566,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/tur%C5%9Fu.jpg"
   },
   {
-    "id": "83",
     "title": "Çöpten Enerji Üretimi ve Fermantasyon Tesisi",
     "title2": "Bingöl Belediye Başkanı - Erdal Arıkan",
     "title3": "Katı atık düzenli depolama sahasında hayata geçirilen Çöpten Enerji Üretimi ve Fermantasyon Tesisi ile çöp gazından elektrik üretimi başladı. Günlük 130 ton katı atıktan 560 Kilowatt/saat elektrik enerjisi üretiyoruz. Bu da günlük 1.500 konutun aydınlatmasına yetecek enerjiye denk düşüyor.",
@@ -670,7 +573,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bing%C3%B6l%20%C3%A7%C3%B6pten%20fermantasyon.jpg"
   },
   {
-    "id": "84",
     "title": "Ataköy Şehitler Parkı",
     "title2": "Afyonkarahisar Belediye Başkanı - Mehmet Zeybek",
     "title3": "Afyonkarahisar Bel. Bşk. - Mehmet Zeybek",
@@ -679,7 +581,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/atak%C3%B6y%20%C5%9Fehitler%20park%C4%B1.jpg"
   },
   {
-    "id": "85",
     "title": "Adana Yüreğir Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -687,7 +588,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/adanay%C3%BCre%C4%9Fir%20mb.jpg"
   },
   {
-    "id": "86",
     "title": "Mamak Üreğil Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -695,7 +595,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/uregil-Millet-Bahcesi-2.jpg"
   },
   {
-    "id": "87",
     "title": "Ankara Başkent Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -703,7 +602,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ba%C5%9Fkent%20millet.jpg"
   },
   {
-    "id": "88",
     "title": "Şehit Prof. Dr. İlhan Varank Bilim Parkı",
     "title2": "Esenler Belediye Başkanı - Tevfik Göksu",
     "title3": "Bilim Parkı’nda her şey oyunla öğrenilecek, bu sayede Matematik ve Fen Bilimleri derslerinde zorlanan öğrencilerimiz artık daha kolay öğrenecek ve okul başarıları artacak.",
@@ -711,7 +609,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/es1.jpg"
   },
   {
-    "id": "89",
     "title": "Prof. Dr. Sadettin Ökten Şehir Düşünce Merkezi",
     "title2": "Esenler Belediye Başkanı - Tevfik Göksu",
     "title3": "Belediyemizin, ilke imza attığı projelerden biri olan “Prof. Dr. Sadettin Ökten Şehir Düşünce Merkezi”, şehre dâir kalıcı düşüncelerden yola çıkarak, yenilikçi fikirler üretmek çözüm odaklı olmak amacıyla kurulan akademik bir kadro ile hayata geçirildi. Şehrimizde sosyal, kültürel, fiziki ve kentsel dönüşüm projelerini uygulamaya koyarak, kent kimliğinin oluşturulması amaçlanıyor.",
@@ -719,7 +616,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/es2.jpg"
   },
   {
-    "id": "90",
     "title": "Aydın Nazilli Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -727,7 +623,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/4-%20NAZ%C4%B0LL%C4%B0%20M%C4%B0LLET%20BAH%C3%87ES%C4%B0.jpg"
   },
   {
-    "id": "91",
     "title": "Cezeri Öğrenci İstasyonu",
     "title2": "Güngören Belediye Başkanı - Bünyamin Demir",
     "title3": "",
@@ -735,7 +630,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/la1.jpg"
   },
   {
-    "id": "92",
     "title": "Biruni Öğrenci İstasyonu",
     "title2": "Güngören Belediye Başkanı - Bünyamin Demir",
     "title3": "",
@@ -743,7 +637,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ak%C4%B1sya.jpg"
   },
   {
-    "id": "93",
     "title": "Balıkesir Kızpınar Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -751,7 +644,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bal%C4%B1kesirk%C4%B1zp%C4%B1nar.jpg"
   },
   {
-    "id": "94",
     "title": "Batman Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -759,7 +651,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/batmanmb.jpg"
   },
   {
-    "id": "95",
     "title": "Bursa Osmangazi Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -767,7 +658,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/osmangaz.jpg"
   },
   {
-    "id": "96",
     "title": "Çorum Çepni Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -775,7 +665,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C3%A7epnimillet.jpg"
   },
   {
-    "id": "97",
     "title": "Diyarbakır Bağlar Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -783,7 +672,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/diyarbak%C4%B1rba%C4%9Flar.jpg"
   },
   {
-    "id": "98",
     "title": "Düzce Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -791,7 +679,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/d%C3%BCzcemillet.jpg"
   },
   {
-    "id": "99",
     "title": "Elazığ Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -799,7 +686,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/elaz%C4%B1%C4%9Fmillet.jpg"
   },
   {
-    "id": "100",
     "title": "Elazığ Kent Köy Parkı Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -807,7 +693,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/kentk%C3%B6ypark%C4%B1.jpg"
   },
   {
-    "id": "101",
     "title": "Erzurum Hilalkent Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -815,7 +700,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/erzurumh.jpg"
   },
   {
-    "id": "102",
     "title": "Eskişehir Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -823,7 +707,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/eski%C5%9Fehirmillet.jpg"
   },
   {
-    "id": "103",
     "title": "Esenler 15 Temmuz Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -831,7 +714,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/15-temmuz-millet-bahcesi-led-boyutu.jpg"
   },
   {
-    "id": "104",
     "title": "Başakşehir Hoşdere Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -839,7 +721,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Hosdere-Millet-Bahcesi-projesi.jpg"
   },
   {
-    "id": "105",
     "title": "Kahramanmaraş 15 Temmuz Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -847,7 +728,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/15%20temmuz%20millet%20mara%C5%9F.jpg"
   },
   {
-    "id": "106",
     "title": "Trabzon Akçaabat Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -855,7 +735,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/akcaabat-millet-bahcesi-84038.jpg"
   },
   {
-    "id": "107",
     "title": "Trabzon Avniaker Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -863,7 +742,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/avniakertrabzon.jpg"
   },
   {
-    "id": "108",
     "title": "E-Spor Merkezi",
     "title2": "Sancaktepe Belediye Başkanı - Şeyma Döğücü",
     "title3": "Mustafa Öncel Spor Kompleksi'nde Sancaktepe E-spor Merkezi'mizin yapımını tamamladık.",
@@ -871,7 +749,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C5%9Feyma.jpg"
   },
   {
-    "id": "109",
     "title": "Başakşehir 1. Etap Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -879,7 +756,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ba%C5%9Fak%C5%9Fehir%201.etap%20millet.jpg"
   },
   {
-    "id": "110",
     "title": "Kars Örnek Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -887,7 +763,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/kars%20%C3%B6rnek%20millet.jpg"
   },
   {
-    "id": "111",
     "title": "Kahramanmaraş Recep Tayyip Erdoğan Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -895,7 +770,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/mara%C5%9F%20rterdo%C4%9Fan%20millet.jpg"
   },
   {
-    "id": "112",
     "title": "Nakkaştepe Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -903,7 +777,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Nakkastepe-Millet-Bahcesi-Gezilecek-Yerler.jpg"
   },
   {
-    "id": "113",
     "title": "Pendik Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -911,7 +784,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/pendik%20millet.jpg"
   },
   {
-    "id": "114",
     "title": "Sivas Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -919,7 +791,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/sivasmilletbahh.jpg"
   },
   {
-    "id": "115",
     "title": "Ümraniye Hekimbaşı Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -927,7 +798,7 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/umraniye-millet%20bah%C3%A7esi.jpg"
   },
   {
-    "id": "116",
+
     "title": "Samsun Millet Bahçesi",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "",
@@ -935,7 +806,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/samsunmilletbah%C3%A7esi.jpg"
   },
   {
-    "id": "117",
     "title": "Vakıfköy Bera Kent Parkı ve Spor Tesisleri",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "Bünyesinde yüzme havuzu, boks ve güreş salonları, sporcu misafirhanesi, iki nizami futbol sahası, seyirci tribünü, lunapark, kafeteryalar, 11 bin metrekarelik gölet, tematik parklar ve 300 araçlık otopark bulunan Vakıfköy Kent Parkı ve Spor Tesisleri projesi tamamlandı.",
@@ -943,7 +813,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bursa1.jpg"
   },
   {
-    "id": "118",
     "title": "Kent Meydanı-Terminal Tramvay Hattı (T2)",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "Kent Meydanı - Terminal Tramvay Hattı toplam 9 bin 445 metre uzunluğunda 11 istasyonlu T2 hattının, T1 hattına entegrasyonu çalışmaları 3 etap halinde tamamlandı. İki hattın entegrasyonunun sağlanması ile birlikte Terminal’den tramvaya binen vatandaşlar kesintisiz bir şekilde Heykel’e ulaşabiliyor.",
@@ -951,7 +820,6 @@
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bursa2.jpg"
   },
   {
-    "id": "119",
     "title": "Çubuklu Arabalı Vapur İskelesi Sosyal Yaşam Merkezi",
     "title2": "İBB Başkanı - Ekrem İmamoğlu",
     "title3": "Çubuklu Arabalı Vapur İskelesi, Kamusal Merkeze Dönüşüyor
@@ -960,7 +828,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ist1.jpg"
   },
   {
-    "id": "120",
     "title": "Dudullu Bostancı Metro Hattı",
     "title2": "Eski İBB Bşk. - Kadir Topbaş devamında Eski İBB Bşk. - Mevlüt Uysal devamında İBB Bşk. - Ekrem İmamoğlu",
     "title3": "Anadolu yakasının mevcuttaki üç raylı sistemini de birbiriyle bağlayan ve tam otomatik sürücüsü sistemle çalışan Dudullu Bostancı metro hattı sayesinde İstanbullular, Bostancı istasyonundan Marmaray hattına, Kozyatağı istasyonundan Kadıköy-Kartal-Tavşantepe hattına, Dudullu istasyonu ile Üsküdar - Ümraniye-Çekmeköy hattına geçiş yapılabiliyor. Ayrıca yine Bostancı istasyonu ile deniz ulaşımına da entegrasyon sağlanıyor.",
@@ -968,7 +835,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ist2.jpg"
   },
   {
-    "id": "121",
     "title": "Rumeli Hisarı Aşiyan Füniküler Hattı",
     "title2": "İBB Başkanı - Ekrem İmamoğlu",
     "title3": "Metro hatlarını deniz ulaşımı ile buluşturan Rumeli Hisarı - Aşiyan Füniküler Hattı İstanbullulara hizmet vermeye başlıyor. 2017’de ihalesinin yapılmasının ardından bütçe yetersizliği nedeniyle 2018 yılı sonunda inşaat genel ilerlemesi %25 iken durdurulan proje için özkaynak bütçe planlaması yapılmasıyla Haziran 2020’de yeniden çalışmalara başlanmıştı. Levent – Hisarüstü Metro Hattı ile entegre olan 800 metrelik füniküler hattının hizmete alınmasıyla Rumeli Hisarı ve Aşiyan arasındaki mesafe sadece 2,5 dakikaya iniyor.",
@@ -976,7 +842,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ist3.jpg"
   },
   {
-    "id": "122",
     "title": "Çengelköy Kültür Merkezi",
     "title2": "İBB Başkanı - Ekrem İmamoğlu",
     "title3": "Çengelköy Yeni Bir Kültür Merkezi Kazandı
@@ -985,7 +850,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ist5.jpeg"
   },
   {
-    "id": "123",
     "title": "İnegöl Spor Merkezi",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "İnegöl Spor Merkezi tamamlandığında 37,39 dönüm alan üzerine kurulu olacaktır. Toplam 8.379 m² kapalı alana sahiptir. İçerisinde  Sosyal Tesis, Altyapı Sporcu Binası, Soyunma Binası, 2 adet Doğal Çim Saha, 1 adet Sentetik Çim Saha, 4 tanesi engelli olmak üzere toplam 35 araçlık otopark, 600 kişilik açık Tribün  bulunacaktır.",
@@ -993,7 +857,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ineg%C3%B6l%20spor%20merkezi.jpg"
   },
   {
-    "id": "124",
     "title": "Yenişehir Pazar Yeri, Otopark ve Sosyal Yaşam Alanı Projesi",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "Yenişehir İlçesi,  Çayır mahallesinde Pazar Yeri, Otopark, Sosyal  Yaşam alanı, Mahalli Müşterek Nitelikli İhtiyaçlar İçin 7400 m2 toplam inşaat alanlı  ‘Yenişehir Pazar Yeri,  Otopark ve Sosyal Yaşam Alanı Projesi’  inşaatı tamamlanmıştır.",
@@ -1001,7 +864,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/yeni%C5%9Fehir%20pazaryeri.jpg"
   },
   {
-    "id": "125",
     "title": "Gökmen Uzay Havacılık Eğitim Merkezi",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "Türkiye'nin uzay temalı ilk eğitim merkezi olan GUHEM BTSO ve Bursa Büyükşehir Belediyesi İşbirliği ile tamamalanmıştır.",
@@ -1009,7 +871,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/g%C3%B6kmen%20uzay.jpg"
   },
   {
-    "id": "126",
     "title": "Nene Hatun Kültür Merkezi",
     "title2": "Sultangazi Belediye Başkanı - Abdurrahman Dursun",
     "title3": "Nene Hatun Kültür Merkezimiz, İsmetpaşa Mahallesi’nde siz değerli halkımıza hizmet vermeye başladı. Selçuklu ile Osmanlı mimarisinden esinlenerek tasarlanan Kültür Merkezimiz, güzel görüntüsü ile dikkat çekiyor. İsmetpaşa Mahallesi’nde hizmet veren merkezimizin içerisinde pek çok fonksiyon bulunuyor.",
@@ -1017,7 +878,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/MTYxNjk0ZDkwYjA2Zjc.jpg"
   },
   {
-    "id": "127",
     "title": "Su Mekan",
     "title2": "Sultangazi Belediye Başkanı - Abdurrahman Dursun",
     "title3": "Sadece kadınlara yönelik kültürel, eğitim ve sportif faaliyetlerin gerçekleştirildiği Sultangazi Kültür Sanat ve Mesleki Eğitim Akademisi (SU - MEKAN) halkımızın hizmetine sunulmuştur.",
@@ -1025,7 +885,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/aga1.jpg"
   },
   {
-    "id": "128",
     "title": "Uğur Mumcu Mahallesi Katlı Otopark ve Hizmet Tesisleri",
     "title2": "Sultangazi Belediye Başkanı - Abdurrahman Dursun",
     "title3": "Uğur Mumcu Mahallesi Hizmet Tesisleri’nin toplam inşaat alanını 15 bin 800 m2. Bu hizmet tesisinin hayata geçirilmesiyle halk arasında, “Çarşamba Pazarı” olarak adlandırılan sokak pazarı burada hizmet vermeye devam etmektedir. Böylece çevre ve görüntü kirliliği ile trafik sorunu da ortadan kalktı.",
@@ -1033,7 +892,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/aga2.jpg"
   },
   {
-    "id": "129",
     "title": "Özdemir Bayraktar Gençlik ve Kültür Merkezi",
     "title2": "Sultangazi Belediye Başkanı - Abdurrahman Dursun",
     "title3": "Eğitim, Kültür, Sanat, Spor ve hayata dair her şey Özdemir Bayraktar Gençlik ve Kültür Merkezinde. Merkezimiz Yüzme Havuzundan E-Spora, Atölyelerden Kütüphaneye kadar birçok fonksiyonları ile komuşularımıza hizmet veriyor.",
@@ -1041,7 +899,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/aga3.jpg"
   },
   {
-    "id": "130",
     "title": "Mudanya Aile Destek Merkezi",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "İl Özel İdare’den Büyükşehir Belediyesi’ne geçtikten sonra hiç kullanılmayan binanın yıkılmasının ardından yerine 370 metrekare alan üzerine modern bir eğitim binası kazandırılacak. Böylelikle olası bir deprem anında çökme ihtimali bulunan bir bina ortadan kaldırılırken, Mudanya ilçesi bünyesinde bayanlar için spor salonu, Busmek Kurs Merkezi ve Ana Kucağı Eğitim Merkezi’nin de bulunduğu zemin artı 3 katlı modern bir eğitim yuvasına kavuşmuş oldu.",
@@ -1049,7 +906,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/mudannya%20aile%20destek.jpg"
   },
   {
-    "id": "131",
     "title": "Çocuk Trafik Eğitim Parkı",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "Tamamen eğitim amaçlı olarak tasarlanan proje, prefabrik, betonarme ve çelik yapılardan oluşacak. Yaklaşık olarak 300 metre bisiklet yolu ve yürüyüş yolu bulunan projede 1 adet idari yönetim binası, 1 adet minyatür oto deposu, 126 kişi kapasiteli 1 adet kapalı tribün, 1 adet geçit tüneli ve 1 adet yaya üst geçidi bulunuyor. Trafik kurallarını bilen, daha donanımlı bir nesil yetişmesi için çocukların trafik kurallarını eğlenerek öğrenmelerini sağlamak ve bisiklet kullanımı konusunda farkındalık oluşturulmasını sağlayacak.",
@@ -1057,7 +913,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C3%A7ocuk%20trafik%20e%C4%9Fitim.jpg"
   },
   {
-    "id": "132",
     "title": "Karagöz Mesire Alanı",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "",
@@ -1065,7 +920,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karag%C3%B6z%20mesire.jpg"
   },
   {
-    "id": "133",
     "title": "Acemler Aktarma Merkezi ve Otopark",
     "title2": "Bursa Büyükşehir Belediye Başkanı - Alinur Aktaş",
     "title3": "Ali Osman Sönmez Hastanesi karşısına, yaklaşık 25 bin metrekare alan üzerinde Aktarma Merkezi kuruldu. Batı Garajı ile Bursaray Acemler İstasyonu yanındaki otobüs alanı, 15 otobüs ve 1 taksi peronu ile 272 araçlık park kapasitesine aktarma merkezine taşınırken; hem bölgede trafik rahatladı hem de hastaneye gelen vatandaşlara hizmet verecek bir otopark bölgeye kazandırılmış oldu.",
@@ -1073,7 +927,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/acemler%20aktarma.jpg"
   },
   {
-    "id": "134",
     "title": "Salihli Yeraltı Otoparkı, Pazaryeri ve Bedesten Çarşısı",
     "title2": "Manisa Büyükşehir Belediye Başkanı - Cengiz Ergün",
     "title3": "Manisa Büyükşehir Belediyesi tarafından Eski kamyon garajının bulunduğu 19 bin metrekarelik alana yapılan Modern Pazaryeri, Yeraltı Otoparkı ve Bedesten Çarşısı projesinde çalışmalar tamamlandı.",
@@ -1081,7 +934,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/manisa%20bedesten.jpg"
   },
   {
-    "id": "135",
     "title": "Sümerpark Bülent Yelkenci Spor Kompleksi",
     "title2": "Manisa Büyükşehir Belediye Başkanı - Cengiz Ergün",
     "title3": "Şehzadeler ilçemizde Sümerbank arazisi üzerinde hayata geçirdiğimiz Sümerpark Bülent Yelkenci Spor Kompleksi; futbol, basketbol, voleybol, pentatlon sahası, fitness salonu ve tenis kortu gibi spor alanlarından sosyal alanlara ve hamam, buhar odası, masaj salonu ve sauna donatılarıyla Manisalılara birbirinden farklı aktivite alanları sunuyoruz.",
@@ -1089,7 +941,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/projefotograf_2_e37e0b2854154f5f89efebc53c088705.jpg"
   },
   {
-    "id": "136",
     "title": "Tam Otomasyonlu Otopark",
     "title2": "Manisa Büyükşehir Belediye Başkanı - Cengiz Ergün",
     "title3": "Manisa Büyükşehir Belediyesi’nin, Manisa merkezdeki otopark sorununu çözmek adına ürettiği en önemli projelerden bir tanesi olan Türkiye’nin en büyük 560 Araçlık Tam Otomasyonlu Otoparkı, 1 Haziran 2016 tarihinde Manisalıların hizmetine sunuldu.",
@@ -1097,7 +948,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/14g.jpg"
   },
   {
-    "id": "137",
     "title": "Şehirlerarası Otobüs Terminali",
     "title2": "Manisa Büyükşehir Belediye Başkanı - Cengiz Ergün",
     "title3": "Yeni terminalimiz 150 bin metrekarenin üzerinde bir alan üzerine inşa edildi. Toplamda 11.200 metrekarelik kapalı alanda bekleme salonu, 18 adet gişe, restaurant, 6 adet fast-food bölümü, 45 adet dükkân ve yönetim katı yer alıyor. Yarı açık alanda ise peronlar, araç park yerleri ve 140 araçlık özel araç otoparkı var.",
@@ -1105,7 +955,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/otoman%C5%9Fasfd.jpg"
   },
   {
-    "id": "138",
     "title": "Yöresel Ürünler Pazarı",
     "title2": "Giresun Belediye Başkanı - Aytekin Şenlikoğlu",
     "title3": "",
@@ -1113,7 +962,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/y%C3%B6resel%C3%BCr%C3%BCn.jpg"
   },
   {
-    "id": "139",
     "title": "Hilvan Kütüphanesi",
     "title2": "Şanlıurfa Büyükşehir Belediye Başkanı - Zeynel Abidin Beyazgül",
     "title3": "Büyükşehir Belediyesi Fen İşleri Daire Başkanlığı Yapı Kontrol Şube Müdürlüğünce Hilvan’da temeli atılan ilçe kütüphanesi inşaatı, 3 bin metrekare alan üzerinde inşa edildi. İlçede ve kırsal mahallelerdeki gençlerin eğitimlerine katkı sağlayacak ilçe kütüphanesiyle gençlerin sokaktaki kötü alışkanlıklardan kurtarılması ve onlara okuma alışkanlığı kazandırmak hedefleniyor.",
@@ -1121,7 +969,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hilvan.jpeg"
   },
   {
-    "id": "140",
     "title": "Şair Nabi Dijital Sinema Salonu",
     "title2": "Şanlıurfa Büyükşehir Belediye Başkanı - Zeynel Abidin Beyazgül",
     "title3": "Şair Nabi Kültür Merkezi restorasyon yapılarak Şair Nabi Dijital Sinema Salonu olarak hizmet vermektedir. Sinema salonumuz 200 koltuk kapasiteli olup tüm halkımıza ücretsiz olarak hizmet vermektedir.",
@@ -1129,7 +976,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/lanabi.jpeg"
   },
   {
-    "id": "141",
     "title": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
     "title2": "Elazığ Belediye Başkanı - Şahin Şerifoğulları",
     "title3": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi inşa çalışmaları tamamlanarak hizmete açıldı. Toplam 25 bin metrekare alan üzerinde, 17 bin metrekare kapalı alana sahip Elazığ Fuar ve Kongre Merkezi bünyesinde; 6 bin metrekare kapalı fuar ve sergi alanı, iki adet 108 kişilik, bir adet 120 kişilik, bir adet 360 kişilik çok amaçlı salon, üç adet toplantı salonu, fuaye alanı, restoran, kafeterya, ofisler, 145 araçlık kapalı, 42 araçlık açık otopark yer alıyor.",
@@ -1137,7 +983,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/ahmettevfik.jpg"
   },
   {
-    "id": "142",
     "title": "1. Sınıf Atık Getirme Merkezi",
     "title2": "Elazığ Belediye Başkanı - Şahin Şerifoğulları",
     "title3": "Bitkisel atık yağ, pil, elektrikli ve elektronik eşya, ilaç gibi atıklar ile büyük hacimli atıkların evsel atıklarla karıştırılmadan ayrı toplanmasını sağlamak amacıyla 1. Sınıf Atık Getirme Merkezi hizmete sunuldu.",
@@ -1145,7 +990,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/1.s%C4%B1n%C4%B1f.jpg"
   },
   {
-    "id": "143",
     "title": "Mehmet Akif Ersoy Dijital Kütüphanesi",
     "title2": "Elazığ Belediye Başkanı - Şahin Şerifoğulları",
     "title3": "Şehrin yeni marka değeri Mehmet Akif Ersoy Dijital Kütüphanesi inşası tamamlanarak hizmete sunuldu. Geleneksel kütüphane anlayışına yepyeni bir boyut kazandıran, yeni nesil uygulamalar arasında yer alan Dijital Kütüphane bünyesinde; 40 adet bilgisayar ile donatılan 2 adet dijital okuma salonu, kitaplıklarla donatılan okuma salonu, fuaye alanı ve açık teras yer alıyor. Okuyucular, 28 ayrı kategoride 33.000 kaynak esere elektronik ortamda kolayca erişebiliyor.",
@@ -1153,7 +997,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/mehmetakif.jpg"
   },
   {
-    "id": "144",
     "title": "Güneykent Sosyal Yaşam Merkezi",
     "title2": "Elazığ Belediye Başkanı - Şahin Şerifoğulları",
     "title3": "Merkez Yemişlik mevkiinde toplam 1.900 metrekarelik alanda 650 metrekare kullanım alanına sahip yaşam merkezi bünyesinde; kadınlara yönelik tekstil atölyesi, çocuklar için eğitim ve oyun atölyesi, gençler için robotik kodlama atölyesi, kütüphane, çok amaçlı dinlenme ve kafeterya ile yönetim ofisleri yer alıyor.",
@@ -1161,7 +1004,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/g%C3%BCneykentsosyal.jpg"
   },
   {
-    "id": "145",
     "title": "Fethi Sekin Külliyesi",
     "title2": "Elazığ Belediye Başkanı - Şahin Şerifoğulları",
     "title3": "Şehit Fethi Sekin’in anısını yaşatmak adına inşa edilen ve şehadetinin 5. yıl dönümünde düzenlenen törenle açılışı gerçekleştirilen Külliye bünyesinde; kütüphane, konferans salonu, sergi salonu, fuaye alanı, çeşitli kursların düzenleneceği atölyeler ve mescitler yer alıyor.",
@@ -1169,7 +1011,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/fethisekin%20k%C3%BClliye.jpg"
   },
   {
-    "id": "146",
     "title": "Hilalkent Sosyal Yaşam Merkezi",
     "title2": "Elazığ Belediye Başkanı - Şahin Şerifoğulları",
     "title3": "Toplam 2.100 metrekare alan üzerine inşa edilen sosyal yaşam merkezi bünyesinde; 3 adet 45’er metrekarelik derslik, spor salonu, bay-bayan taziyeevi, okumaevi, kafeterya, muhtarlık ofisi, 5 adet dükkân ve sosyal donatılar yer alıyor.",
@@ -1177,7 +1018,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hilalkentosyal.jpg"
   },
   {
-    "id": "147",
     "title": "Belenköy Mahallesi TOKİ Sosyal Yaşam Merkezi",
     "title2": "Karabük Belediye Başkanı - Rafet Vergili",
     "title3": "Türkiye'ye örnek projelerimizden biri olan ve bir çok hizmeti tek nokta da topladığımız, Sosyal Yaşam Merkezlerimizin 25'incisini Belen Mahallesi TOKİ konutlarında 28 Aralık 2022 Çarşamba günü hizmete aldık.",
@@ -1185,15 +1025,13 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karab%C3%BCk1.jpg"
   },
   {
-    "id": "148",
     "title": "Yeşil Mahalle Bilgin Sokak Sosyal Yaşam Merkezi",
     "title2": "Karabük Belediye Başkanı - Rafet Vergili",
     "title3": "Yeşil Mahalle (Esentepe) Bilgin Sokak Mescid-i Aksa Camii yanında yer alan bölgede, ülkemizde örnek proje olarak gösterilen Sosyal Yaşam Merkezlerimizin 26’cısının temelini 19 Ağustos 2021 tarihinde dualarla attık.",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karab%C3%BCk2.jpg"
   },
-    {
-    "id": "149",
+  {
     "title": "5000 Evler Bahçelievler Mahallesi Sosyal Yaşam Merkezi",
     "title2": "Karabük Belediye Başkanı - Rafet Vergili",
     "title3": "Karabük Belediye Başkanı Rafet Vergili’nin Türkiye’de örnek alınan projelerinden biri olan Sosyal Yaşam Merkezlerinin 25’incisinin temeli 5000 Evler Bahçelievler Mahallesi’nde atıldı.",
@@ -1201,7 +1039,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karab%C3%BCk3.jpg"
   },
   {
-    "id": "150",
     "title": "Sporcu Fabrikası Projesi",
     "title2": "Karabük Belediye Başkanı - Rafet Vergili",
     "title3": "5000 Evler Mahallemizde yer alan ve kullanım hakkı belediyemizde bulunan yaklaşık 7 dönüm araziyi Gençlik ve Spor Bakanlığı’na devrederek, bölgede bir sporcu fabrikasının inşa edilmesini ve çocuklarımızın daha iyi şartlarda spor yapmalarını sağladık.",
@@ -1209,7 +1046,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karab%C3%BCk4.jpg"
   },
   {
-    "id": "151",
     "title": "Pendik-Sabiha Gökçen Metro Hattı",
     "title2": "Cumhurbaşkanı - Recep Tayyip Erdoğan",
     "title3": "Uzunluğu 7,4 kilometre olan 4 istasyonlu metro hattının Sabiha Gökçen Havalimanı'nı Pendik'e, Anadolu Adliyesi'ne ve Kadıköy'e bağladığını belirten Erdoğan, Sabiha Gökçen Havalimanı'na Pendik'ten 10 dakikada, Kartal'dan 12 dakikada, Kadıköy'den 50 dakikada ulaşmanın mümkün hale geldiğini söyledi. Erdoğan, gelecek birkaç ay içinde şu an devam eden yatırımlar da tamamlandığında bu hattı İstanbul Havalimanı'na kadar ulaştıracaklarını dile getirdi.",
@@ -1217,7 +1053,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/sabihaaaaa.jpg"
   },
   {
-    "id": "152",
     "title": "100. Yıl Kitap Kafe Projesi",
     "title2": "Karabük Belediye Başkanı - Rafet Vergili",
     "title3": "100. Yıl Kitap Kafe projemiz, 100. Yıl Yaşam Kompleksi içerisinde yer almaktadır. Kitap Kafe projemiz, üniversiteli gençlerimizin ve öğrencilerimizin kitap okuyabilecekleri, internet erişimi olan nezih bir mekan olarak planlanmıştır.",
@@ -1225,7 +1060,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karab%C3%BCk5.jpg"
   },
   {
-    "id": "153",
     "title": "Bayraktar Akıncı",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Baykar Bayraktar Akıncı, Türkiye merkezli savunma sanayi firması Baykar Savunma tarafından geliştirilmiş, yüksek irtifa uzun dayanıklılık (HALE) sınıfı sahip silahlı insansız hava aracıdır. İlk kez 29 Ağustos 2021 tarihinde Türk Silahlı Kuvvetleri envanterine girmişlerdir.",
@@ -1233,7 +1067,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bayraktarak%C4%B1nc%C4%B1.jpg"
   },
   {
-    "id": "154",
     "title": "Bayraktar DİHA",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Bayraktar DİHA, Baykar Savunma tarafından geliştirilen ve ilk kez 2019 yılında duyurulan dikey iniş kalkışlı insansız hava aracı sistemidir. 2023 yılında hizmete girmesi planlanan TCG Anadolu isimli amfibi hücum gemisinde de kullanılması beklenen Bayraktar DİHA, tam otonom uçuş özellerine de sahiptir.",
@@ -1241,7 +1074,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bayraktardiha.jpg"
   },
   {
-    "id": "155",
     "title": "Bayraktar TB2",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Baykar Bayraktar TB2 (Taktik Blok 2),Türkiye merkezli Baykar Savunma tarafından üretilen silahlı insansız hava aracıdır. 14 Haziran 2014 tarihinde tam yüklü olarak gerçekleştirilen uçuş testinde 27.030 fit (8.240 m) irtifaya çıkmış, 5-6 Ağustos'ta gerçekleştirilen uçuş testinde ise tam yüklü olarak 18.000 fit (5.500 m) feet irtifada 4.040 km yol kat ederek 24 saat, 34 dakikalık uçuş gerçekleştirmiştir. 17 Aralık 2015'te iki adet Roketsan MAM-L güdümlü füzesi yüklü şekilde yapılan atış testinde %100 isabet ile hedefleri vurabilmiştir.",
@@ -1249,15 +1081,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bayraktartb2.jpg"
   },
   {
-    "id": "156",
-    "title": "Bayraktar TB3",
-    "title2": "Milli Teknoloji Hamlesi",
-    "title3": "Baykar Bayraktar TB3, Türkiye merkezli Baykar Savunma tarafından geliştirilen katlanır kanatlı ve kısa mesafede iniş-kalkış özelliğine sahip bir silahlı insansız hava aracı (SİHA)'dır. TCG Anadolu Amfibi Çıkarma gemisi üzerinde konuşlanacak uçak eksikliği üzerine geliştirilmeye başlanmıştır.",
-    "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/bayraktartb3.jpg"
-  },
-  {
-    "id": "157",
     "title": "TUSAŞ Aksungur",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "TUSAŞ Aksungur, Türk Havacılık ve Uzay Sanayii (TUSAŞ) tarafından Türk Silahlı Kuvvetleri için geliştirilmekte olan bir insansız hava aracıdır. Uçak gövdesi, kanat ve iniş takımları program için yeni geliştirilirken yeni İHA özellikle iç sistemler ve aviyonikler açısından Anka ailesiyle ortak özelliklere sahiptir. Ayrıca hizmet içi modelin mevcut yer kontrol istasyonu kullanılarak da uçurulabilecektir. Aksungur, TUSAŞ'ın bugüne kadar ürettiği en büyük insansız hava aracıdır.",
@@ -1265,7 +1088,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/aksungur-o2%2C1953.jpg"
   },
   {
-    "id": "158",
     "title": "TUSAŞ Anka",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "TUSAŞ Anka (İngilizce: TAI Anka), Türk Silahlı Kuvvetleri'nin ihtiyaçları doğrultusunda Türk Havacılık ve Uzay Sanayii A.Ş. tarafından geliştirilen insansız hava aracıdır. Temel Anka-A, orta irtifa uzun ömür (MALE) İHA sınıfındadır. 2000'li yılların başında taktiksel gözetim ve keşif misyonları için tasarlanan Anka, günümüzde sentetik aralıklı radar, hassas silahlar ve uydu iletişimiyle modüler bir platforma dönüşmüştür. İsmini efsanevi mitolojik yaratık olan Anka Kuşu'ndan almıştır. TUSAŞ Anka, 7 Aralık 2021 tarihi itibarıyla hizmete girdiğinden beri toplam 100.000 saat uçuş gerçekleştirmiştir.",
@@ -1273,15 +1095,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/anka.jpg"
   },
   {
-    "id": "159",
-    "title": "TUSAŞ Anka-3",
-    "title2": "Milli Teknoloji Hamlesi",
-    "title3": "TUSAŞ Anka-3, Türk savunma sanayi şirketi TUSAŞ tarafından tasarım ve geliştirme çalışmalarına devam edilen turbofan motorlu, gövde içinde silah sistemleri barındıran, yüksek yük taşıma kapasiteli, stealth, kuyruksuz bir insansız savaş uçağı projesidir.",
-    "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/anka3.jpeg"
-  },
-  {
-    "id": "160",
     "title": "TUSAŞ Şimşek",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "TUSAŞ Şimşek, Türk Havacılık ve Uzay Sanayi (TUSAŞ) tarafından 2009-2012 yılları arasında Türk Silahlı Kuvvetlerinin ihtiyaçları için tasarlanan, geliştirilen ve inşa edilen, turbojet ile çalışan radyo kontrollü yüksek hızlı hedef insansız hava aracı, kamikaze dron ve havadan-karaya füzedir. Şimşek, havadan havaya, karadan havaya, uçaksavar topçu ve füze sistemlerinin izleme ve atış eğitimleri için, düşman uçak ve füzelerini simüle etmektedir ve Ekim 2021 yılında kamuoyuna sunulan varyantı ile karadan kalkarak karadan-karaya, karadan-satıha hedefleri vurabilme yeteneği kazandırılmıştır.",
@@ -1289,7 +1102,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C5%9Fim%C5%9Fek.jpg"
   },
   {
-    "id": "161",
     "title": "STM Kargu",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "STM Kargu, Savunma Teknolojileri Mühendislik ve Ticaret AŞ. (STM) tarafından üretilen Türkiye yapımı bir insansız hava muharebe aracıdır. Asimetrik savaş veya karşı isyan için tasarlanmış küçük, taşınabilir döner kanatlı bir kamikaze drone olup hem otonom hem de manuel modlarda tek bir personel tarafından taşınabilir. Kargu, gerçek zamanlı görüntü işleme yetenekleri ve platforma yerleştirilmiş makine öğrenme algoritmaları sayesinde statik veya hareketli hedeflere karşı etkili bir şekilde kullanılabilir.",
@@ -1297,7 +1109,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/stmkargu.jpg"
   },
   {
-    "id": "162",
     "title": "Atmaca Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Atmaca, Roketsan tarafından geliştirilmekte olan azami olarak 220–280 km menzilli gemisavar ve/veya seyir füzesi.",
@@ -1305,7 +1116,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/atmacaf%C3%BCzesi.png"
   },
   {
-    "id": "163",
     "title": "Bozdoğan Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Bozdoğan (Hava önleme füzesi) Kısa menzilli ve görüş-içi kızılötesi arayıcı başlıklı, GÖKTUĞ füze ailesine mensup bir havadan havaya füze.",
@@ -1313,7 +1123,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Bozdo%C4%9Fan.jpg"
   },
   {
-    "id": "164",
     "title": "Cirit Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Roketsan Cirit, Türk roket ve füze üreticisi Roketsan tarafından üretilmekte olan, 8 km menzilli, lazer güdümlü 70 mm'lik füze sistemidir.",
@@ -1321,7 +1130,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/cirittttt.jpg"
   },
   {
-    "id": "165",
     "title": "Çakır Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Roketsan Çakır, Türk roket ve füze üreticisi Roketsan tarafından tasarlanan 150 km'den daha fazla menzile sahip kara, deniz ve hava platformlarından atılabilen yeni nesil seyir füzesidir. 31 Mart 2022 tarihinde ROKETSAN Ankara Lalahan tesislerinde yapılan lansman ile tanıtılmıştır. Aynı gün ROKETSAN Twitter adresi üzerinden füzeye ilişkin bir video paylaşılmıştır.",
@@ -1329,7 +1137,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C3%A7ak%C4%B1r.webp"
   },
   {
-    "id": "166",
     "title": "Gökdoğan Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Gökdoğan, TÜBİTAK-SAGE tarafından geliştirilen orta menzilli ve görüş-ötesi aktif radar arayıcı başlıklı, GÖKTUĞ füze ailesine ait havadan havaya füzedir.",
@@ -1337,7 +1144,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/G%C3%B6kdo%C4%9Fan.jpg"
   },
   {
-    "id": "167",
     "title": "Göktuğ Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "GÖKTUĞ, Türk Hava Kuvvetleri'nin havadan havaya füze gereksinimini yerli ve millî imkânlarla karşılamak ve hâlihazırda Türk Hava Kuvvetleri'nin bu gereksinimini karşılamakta olan Amerikan üretimi AIM-9 Sidewinder (görüş-içi) ve AIM-120 AMRAAM (görüş-ötesi) füzelerinden oluşan AIM havadan havaya füze ailesinin yerini almak amacıyla Türkiye tarafından 2013 yılında geliştirilmesine başlanan bir havadan havaya füze ailesidir.",
@@ -1345,15 +1151,13 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/G%C3%B6ktu%C4%9F.jpg"
   },
   {
-    "id": "168",
     "title": "İHA-230 Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "İHA-230, Roketsan tarafından TRG-230 füzesi üzerinden silahlı insansız hava araçlarında kullanılmak üzere geliştirilen bir balistik füze. İnsansız hava aracının irtifa ve hızına bağlı olarak 150+ km menzile kadar erişebilmekte. Hala testleri devam etmekle birlikte yakın zamanda seri üretime geçmesi beklenmekte.",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/iha230.jpg"
   },
-    {
-    "id": "169",
+  {
     "title": "Karaok Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Kısa Menzilli At-Unut Tipi Tanksavar Silahı KARAOK, ROKETSAN tarafından geliştirilmekte olan yeni 125 mm'lik taşınabilir, hafif, ateşle ve unut, kısa menzilli tanksavar güdümlü füzedir.",
@@ -1361,7 +1165,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/karaok.jpg"
   },
   {
-    "id": "170",
     "title": "Minyatür Bomba",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Minyatür Bomba, Türk Hava Kuvvetleri'nin çoklu taşıma salanından atılabilen GBU-39 muadili bomba gereksinimini yerli ve milli olanaklarla karşılamak için ASELSAN ana yükleniciliğinde ve TÜBİTAK SAGE işbirliğinde; TUSAŞ MMU, F-16, TUSAŞ Hürjet, Bayraktar Akıncı ve TUSAŞ Aksungur platformlarında kullanılmak üzere Aralık 2012'de geliştirilmeye başlanan ve 2021 yılında Türk Hava Kuvvetleri envanterine girecek olan bir hava - yer mühimmatıdır.",
@@ -1369,7 +1172,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Minyat%C3%BCr_Bomba.png"
   },
   {
-    "id": "171",
     "title": "Nüfuz Edici Bomba",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Nüfuz Edici Bomba ya da kısaltılmış adıyla NEB, Türk Hava Kuvvetleri'nin, yer altı ve yer üstü hedeflerine karşı kullanacağı ardışık delici harp başlığı teknolojisine sahip ağır sınıf bomba gereksinimini yerli ve milli olanaklarla karşılamak üzere TÜBİTAK SAGE tarafından geliştirilmiş ve envantere girmiş bir hava - yer mühimmatıdır. Yapısal olarak Mk-84 genel maksat bombasıyla çok büyük benzerlikler gösterir.",
@@ -1377,7 +1179,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/N%C3%BCfuz_Edici_Bomba.jpg"
   },
   {
-    "id": "172",
     "title": "SOM Füzesi",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "SOM Seyir Füzesi, TÜBİTAK SAGE'nin tasarladığı hedefe yüksek isabet yeteneğine sahip, sabit kanatlı hava platformlarından atılabilen yeni nesil bir seyir füzesidir.",
@@ -1385,7 +1186,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/somf%C3%BCzesi.jpeg"
   },
   {
-    "id": "173",
     "title": "UMTAS",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "UMTAS, (Uzun Menzilli Tanksavar Sistemi), Türkiye'nin savunma sanayii firmalarından Roketsan'ın geliştirdiği tanksavar füze sistemidir.",
@@ -1393,7 +1193,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/umtas.jpg"
   },
   {
-    "id": "174",
     "title": "TUSAŞ Hürkuş",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "TUSAŞ Hürkuş, TUSAŞ tarafından tasarlanan ve geliştirilen, temel eğitim ve hafif kara saldırı uçağı olan iki kişilik, alçak kanatlı, tek motorlu turboprop bir uçaktır. Adı Birinci Dünya Savaşı ve Türk Kurtuluş Savaşı gazisi, ilk Türk uçak üreticisi Vecihi Hürkuş'tan esinlenerek verilmiştir.",
@@ -1401,15 +1200,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/h%C3%BCrku%C5%9F.jpg"
   },
   {
-    "id": "175",
-    "title": "TUSAŞ Hürjet",
-    "title2": "Milli Teknoloji Hamlesi",
-    "title3": "TUSAŞ Hürjet, Türk Havacılık ve Uzay Sanayii AŞ tarafından geliştirilmekte olan, turbofan motorlu, ileri seviye jet eğitimi ve yakın hava desteği uçağı. Hürjet’in, Türk Hava Kuvvetlerinin jet eğitim uçağı olarak kullandığı T-38 uçaklarının yerine hizmete girmesi ve savaş pilotlarının yetiştirilmesi hedefleniyor. Ayrıca uçağın Türk Yıldızları tarafından kullanılan Northrop F-5 uçaklarının yerini alması planlanmakta. İlerleyen yıllar için Hürjet'in TCG Anadolu ve uçak gemilerine inip-kalkabilen bir deniz varyantının yapılması da değerlendiriliyor.",
-    "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/h%C3%BCrjet.jpg"
-  },
-  {
-    "id": "176",
     "title": "Mini Akıllı Mühimmat(MAM)",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Mini Akıllı Mühimmat veya Mikro Akıllı Mühimmat (MAM), Türk savunma sanayii üreticisi ROKETSAN tarafından üretilen lazer güdümlü bir akıllı mühimmat ailesidir. MAM, insansız hava araçları (İHA), hafif saldırı uçakları ve düşük taşıma kapasiteli hava platformları için hava-kara görevlerinde kullanılmak üzere geliştirilmiştir. MAM serisi akıllı bombalar hem sabit hem de hareketli hedeflere yüksek hassasiyetle angaje olmaktadır.",
@@ -1417,7 +1207,6 @@ Mevcut durumda İstinye-Çubuklu arasında sadece arabalı vapur yolcularına hi
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/mam-l-muhimmat-1507080.jpg"
   },
   {
-    "id": "177",
     "title": "Hisar-A (+)",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "Hisar-A (Alçak İrtifa Hava Savunma Füze Sistemi), FNSS ACV-30 aracı şasisine montelenmiş dört dikey Hisar-A lançerinden ve füzelerinden oluşur. Araçlı Hisar-A sistemine, bağımsız bir sistem olabilmesi için, bir hava gözetleme radarı ve bir elektro-optik/kızılötesi (EO/IR) sistemi montelenmiştir.
@@ -1429,7 +1218,6 @@ Azami irtifa: 8+ km",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hisar%20a.jpg"
   },
   {
-    "id": "178",
     "title": "Hisar-O (+)",
     "title2": "Milli Teknoloji Hamlesi",
     "title3": "HİSAR-O (Orta İrtifa Hava Savunma Füze Sistemi), Mercedes-Benz Zetros şasisine monte edilmiş dikey bir lançerden oluşur.
@@ -1440,13 +1228,5 @@ Azami irtifa: 15 km
 Mach hızı: Mach 2",
     "title4": "",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hisar%20o.jpg"
-  },
-  {
-    "id": "179",
-    "title": "Hisar-U (SİPER)",
-    "title2": "Milli Teknoloji Hamlesi",
-    "title3": "HİSAR-U (Uzun İrtifa Hava Savunma Sistemi), ASELSAN, ROKETSAN ve TÜBİTAK SaGe tarafından başlatılan, geliştirme çalışmaları devam eden yüksek irtifa ve uzun menzilli bir hava savunma sistemidir. Gemi ve kara konuşlu olarak kullanılması planlanan füzenin 100 km’den fazla menzile, çift darbeli motora, Aktif Radar Arayıcı (RF) başlığa, Kızılötesi Görüntüleyici Arayıcı Başlık (IIR) ile Terminal Güdüm yeteneğine sahip olması bekleniyor. Sistem özellikle Türk Deniz Kuvvetlerinin en büyük muharip gemi projesi olan TF-2000 sınıfı hava savunma muhribinde de kullanılacak.",
-    "title4": "",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hisar%20u.jpg"
   }
 ]
