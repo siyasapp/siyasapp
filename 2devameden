@@ -274,6 +274,34 @@ Proje şu anda aktif bir şekilde devam etmektedir.",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd28.png"
   },
   {
+    "title": "Çakır Füzesi",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Roketsan Çakır, Türk roket ve füze üreticisi Roketsan tarafından tasarlanan 150 km'den daha fazla menzile sahip kara, deniz ve hava platformlarından atılabilen yeni nesil seyir füzesidir. 31 Mart 2022 tarihinde ROKETSAN Ankara Lalahan tesislerinde yapılan lansman ile tanıtılmıştır. Aynı gün ROKETSAN Twitter adresi üzerinden füzeye ilişkin bir video paylaşılmıştır.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/%C3%A7ak%C4%B1r.webp"
+  },
+  {
+    "title": "Bozdoğan Füzesi",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Bozdoğan (Hava önleme füzesi) Kısa menzilli ve görüş-içi kızılötesi arayıcı başlıklı, GÖKTUĞ füze ailesine mensup bir havadan havaya füze.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/Bozdo%C4%9Fan.jpg"
+  },
+  {
+    "title": "Gökdoğan Füzesi",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "Gökdoğan, TÜBİTAK-SAGE tarafından geliştirilen orta menzilli ve görüş-ötesi aktif radar arayıcı başlıklı, GÖKTUĞ füze ailesine ait havadan havaya füzedir.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/G%C3%B6kdo%C4%9Fan.jpg"
+  },
+  {
+    "title": "Göktuğ Füzesi",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "GÖKTUĞ, Türk Hava Kuvvetleri'nin havadan havaya füze gereksinimini yerli ve millî imkânlarla karşılamak ve hâlihazırda Türk Hava Kuvvetleri'nin bu gereksinimini karşılamakta olan Amerikan üretimi AIM-9 Sidewinder (görüş-içi) ve AIM-120 AMRAAM (görüş-ötesi) füzelerinden oluşan AIM havadan havaya füze ailesinin yerini almak amacıyla Türkiye tarafından 2013 yılında geliştirilmesine başlanan bir havadan havaya füze ailesidir.",
+    "title4": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/G%C3%B6ktu%C4%9F.jpg"
+  },
+  {
     "title": "Cemil Meriç Kültür Merkezi",
     "title2": "Sultangazi Belediye Başkanı - Abdurrahman Dursun",
     "title3": "Yapımına hızla devam eden Kültür Merkezi; iki bodrum kat ,zemin kat, beş normal kat ve çatı arası piyesli olarak toplam 3.352 m² alana sahip olacaktır.",
